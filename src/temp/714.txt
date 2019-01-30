@@ -1,0 +1,20 @@
+subject:Offre de deux stages au CETIC en Belgique : D�ploiement automatis� d�application dans des environnem
+url:http://www.cs.wisc.edu/dbworld/messages/2018-12/1545210850.html
+deadline:28 Feb 2019
+DBWorld Message Le CETIC offre deux stages de PFE d'ingénieur / Master M2 sur le déploiement automatisé d’application dans des environnements multi-PaaS en utilisant l'outil Ansible et le standard Oasis TOSCA.
+
+Les propositions du stage sont disponible ici :
+- https://lnkd.in/gDQxMkj
+- https://lnkd.in/gWdUYk7
+
+Les candidats doivent être de niveau M2 ou en 5eme année d'école d'ingénieur.
+
+Envoyer CV, lettre de motivation, relevés de notes et références à rami.sellami@cetic.be.
+
+Durée: 3 mois (au moins)
+
+---
+PhD. Eng. Rami Sellami
+Senior researcher
+Département Software Services Technologies (SST)
+CETIC, Gosselies, Belgique

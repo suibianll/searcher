@@ -1,0 +1,11 @@
+subject:Two PhD positions at Syracuse University
+url:http://www.cs.wisc.edu/dbworld/messages/2018-11/1543443360.html
+deadline:31 Aug 2019
+DBWorld Message PhD Opening (Fall, 2019)
+
+Prof. Yuzhe (Richard) Tang's group (http://ecs.syr.edu/faculty/yuzhe) in the EECS department of
+Syracuse University has two PhD openings in 2019. The positions will be fully supported by
+Research Assistantships (RA) starting in Fall 2019. Prof. Tang’s research
+is cybersecurity and distributed systems. Students who are selfmotivated in research and have
+strong systems/programming skills are encouraged to apply. If you are interested, send an
+email to Dr. Tang (ytang100@syr.edu) including your C.V. and transcript.

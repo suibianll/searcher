@@ -1,0 +1,43 @@
+subject:Deadline Extension : Special Issue of Programming and Computer Software 
+url:http://www.cs.wisc.edu/dbworld/messages/2018-12/1544904725.html
+deadline: 
+DBWorld Message Special Issue
+Proceedings of ISP RAS
+"Advanced Computing: from Theory to Practice"
+http://www.ispras.ru/en/proceedings/special-issue.php
+Deadline for manuscript submissions: December 15, 2018 (extended)
+�
+This special issue aims to publish original and previously unpublished research results in the broad area of advanced computing and smart cyber physical systems.
+Potential topics include but are not limited to the following:
+������� Cloud Computing 
+������� High-Performance Computing
+������� Advanced Computing 
+������� Cyber Physical Systems
+������� Internet of Things (IoT) and Industrial Internet of Things
+������� Intelligent fog-edge-cloud data management
+������� Smart city, smart healthcare, etc.
+������� IoT: sensoring, data processing, communication, and storing.
+������� Lightweight cryptography, wireless communication, digital signal processing systems, error detection and correction.
+������� Uncertainty
+������� Security, reliability 
+������� Multi-Objective Resource Optimization, 
+������� Energy-Aware Algorithms
+������� Scientific workflow processing
+������� Software and hardware for artificial Intelligence
+������� Deep learning
+������� Distributed scalable data storage and encrypted data processing
+�
+Best papers will be published in Programming and Computer Software, Springer, 2018. ISSN 0361-7688, Impact Factor:�0.23, Q4�(https://www.springer.com/computer/journal/11086)
+Manuscripts should be submitted online at
+http://ojs.ispras.ru/ojs/index.php/proceedings/about/submissions
+Choose Section* "Advance computing: From Theory to Practice (Special Issue)" on the first step of the submission process.
+�
+Guest Editors
+Prof. Andrei Tchernykh�
+CICESE Research Center, Ensenada, Baja California, Mexico,�
+http://usuario.cicese.mx/~chernykh/�
+chernykh@cicese.mx
+Prof. Allel Hadjali�
+LIAS/ENSMA�
+Laboratory of Computer Science and Automatic Control for Systems, ENSMA/University of Poitiers, France�
+allel.hadjali@ensma.fr

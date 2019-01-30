@@ -1,0 +1,18 @@
+subject:ICAC 2019 Call for Papers
+url:http://www.cs.wisc.edu/dbworld/messages/2018-11/1542650812.html
+deadline:1 Feb 2019
+DBWorld Message Call for Technical Papers ICAC 2019
+ 
+The 16th IEEE International Conference on Autonomic Computing (ICAC) is held in Umeå, Sweden, on June 16 – 20, 2019, as part of the Foundations and Applications of Self* Systems (FAS* 2019). 
+ICAC is the leading conference on autonomic computing techniques, foundations, and applications.
+ 
+Important dates
+Workshop proposal deadline: Dec 14, 2018 
+Abstract and paper submission: Feb 01, 2019  
+Paper submission deadline: Feb 08, 2019  
+Author notification: April 08, 2019  
+Camera ready: April 20, 2019
+ 
+Further information also on http://icac2019.cs.umu.se/
+ 
+ICAC 2019 is co-located and has some shared activities with The 13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019).

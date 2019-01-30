@@ -1,0 +1,127 @@
+subject:Job Vacancy at Shenzhen Institute of Computing Sciences (SICS)
+url:http://www.cs.wisc.edu/dbworld/messages/2018-11/1542595423.html
+deadline:31 Dec 2019
+DBWorld Message 				Job Vacancy at Shenzhen Institute of Computing Sciences (SICS)
+
+
+Shenzhen Institute of Computing Sciences (SICS) is recruiting 3 research
+fellows, 2 research scientists and 1 senior research scientist. 
+
+Grade:
+ - Research fellow: SICS06 (600,000 -- 790,000 CNY)
+ - Research Scientist: SICS07 (800,000 -- 990,000 CNY)
+ - Senior Research Scientist: SICS 08 (1M -- 1.2M CNY)
+
+Shenzhen Institute of Computing Sciences (SICS) is a newly established
+research institute, funded by the municipal government of Shenzhen, China. 
+The institute has committed to promoting and advancing fundamental
+research in China, and taking global lead in research areas in connection
+with big data analytics. It currently hosts two Academicians of Chinese
+Academy of Sciences, a Fellow of the Royal Society (FRS), and a dozen
+visiting world-leading researchers from Europe and the US each year.
+Its current research covers a wide range of areas including, but not only,
+the following topics:
+
+ - Big data analytics under constrained resources
+ - Explainable AI by combining statistical and logical methods
+ - Parallel complexity 
+ - Parallel computation models
+ - Incremental computation theory
+ - Approximation theory and practice
+ - Data pricing, sharing and marketing
+ - Data quality
+ - Distributed graph systems
+ - SQL-over-NoSQL systems
+ - Social media marketing
+ - Fraud detection
+
+While the positions are primarily open to data management researchers
+with a promising publication record, all applicants who have, or expect
+to have, a PhD in computer science will be considered. Skills in logic,
+complexity, approximation theory, parallel computation, incremental
+computation, data quality, database systems, distributed systems, and
+systems building experience are particularly valuable.
+
+SICS offers the following unique opportunities to its researchers.
+
+- To work along with world-leading researchers, who are committed to
+  recommending bright young researchers to top universities in China
+  and abroad, at the levels of Associate Professor and Full Professor,
+
+- To build your own startup. SICS is committed to supporting and funding
+  commercialization of research outcomes with a high potential practical
+  impact.
+
+- To affiliate with Shenzhen University and Peking University Shenzhen
+  Graduate School. SICS researchers can teach and supervise graduate
+  students at the universities, either as faculty or adjunct.
+
+- To collaborate with industry in China. SICS has forged collaborations with
+  industry in China, including Huawei Technologies and Alibaba Group, and
+  encourages technology transfer. 
+
+- To work and live in a most  "livable" city in China. SICS is based in Shenzhen, a
+  modern and attractive city right next to Hong Kong. It is the fastest developing city
+  of great expectation, or "city of ambition".
+
+- To work in a friendly and pleasant environment. SICS is seriously committed to
+  providing its researchers with a culture and workplace to focus on
+  research and research along, free of office politics and funding pressure.
+  
+- Salary competitive to industry. SICS offers a package of salary, compensation,
+  reward, bonus and housing benefits comparable to (and better than to some
+  extent) what you can get from industry.
+
+Potential applicants are invited to send your CV statement of research interests to sics-hr@qq.com
+  
+We invite outstanding and motivated researchers to join forces with us,
+to make a history of fundamental research in China!
+
+                       
+                       
+                       ���ڼ����ѧ�о�ԺӢ����
+
+���ڼ����ѧ�о�Ժ��SICS������������Ƹ���¸�λ��
+
+ - �о�Ա         3��
+ - �о���ѧ��     2��
+ - �߼��о���ѧ�� 1��
+
+���ǽ�Ϊ��ͬ�������о�Ա����ѧ���ṩ���о�����н�������
+
+ - �о�Ա��SICS06��         ��н     600,000 - 790,000 CNY
+ - �о���ѧ�ң�SICS07��     ��н     800,000 - 990,000 CNY
+ - �߼��о���ѧ�ң�SICS08�� ��н 1,000,000 - 1,200,000 CNY
+
+���ڼ����ѧ�о�Ժ��SICS������������������׼��������������о��������о�Ժ�����ڴٽ����ƶ��й������ѧ����Ļ����о�������ȫ������ݷ����о����򷢻��������á��о�Ժ���������й���ѧԺԺʿ��һ��Ӣ���ʼ�ѧ��Ժʿ��FRS�����Լ�ÿ��ʮ��������ŷ�޺������ȵ����綥������о���Ա��
+�о�Ժ�о�����㷺�������������������·���
+
+ - ��Դ���޵Ĵ����ݷ���
+ - ����ͳ�ƺ��߼��������˹����ܿɽ�����
+ - ���и�����
+ - ���м���ģ��
+ - ������������
+ - ���Ƽ���������ϵͳ
+ - ���ݶ��ۡ�����ͽ���
+ - ��������
+ - �ֲ�ʽͼ����ϵͳ
+ - SQL-over-NoSQLϵͳ
+ - �罻���羫׼Ӫ��
+ - ��������թ
+
+ְλ�������Ӧ�������о�������о���Ա�������õ����ķ�������Ӧ���л򼴽���ü������ѧ���רҵ�Ĳ�ʿѧλ���߱���������Ļ����������ȿ��ǣ��߼��������ԣ����Ƽ������ۣ����м��㣬�������㣬�������������ݿ⣬�ֲ�ʽϵͳ���Լ�ϵͳ������������
+
+
+����SICS���㽫������µ���������Դ������
+
+ - �����綥���о���Ա���µĻ��ᣬ���л��ᱻ�Ƽ����й������綥��ѧ���ĸ����ڡ�����ְλ��
+ - SICS������������֧�ֺ�������Ǳ���ļ�����ĿͶ���г�����ҵ����
+ - SICS�����ڴ�ѧ�ͱ�����ѧ�����о���Ժ��ϵ���У�SICS������Ա������ظ�У���ν��ڡ��������ڸ�λ��ָ���о�����
+ - SICS�ۺϰ�����Ϊ������Ͱͼ��ŵ��й�IT��ҵ������Դ��ʵ���о��ɹ���ҵ����
+ - ���ʵ��������SICS�ܲ�λ�������к������������ֳơ����ǡ���������ۣ��ǳ����������ִ������С����ʿƼ���ҵ�������ġ��������ۺϽ�ͨ��Ŧ��Ҳ���й���˾ӡ��ĳ���֮һ��
+ - ���ĵĹ���������SICS������Ϊ�о���Ա����������Ļ���Χ�͹����������о���Ա����ȫ�Ŀ��У����ѳ��㣬�����������·��š�
+ - ���빤ҵ��������н�ꡢ�����˲Ű��ӷ���һ�����걸�ĸ�����ϵ��
+
+���޹���Ӣ�ţ���ӭ��ְ�߷��ͼ��������й�������sics-hr@qq.com ����ӭ��ѯ��
+
+SICS��Ŀ���ǽ�������ļ����о�Ժ���й��ı���ʵ���ҡ������ܳ����������ǹ�ͬ�����й������ѧ�о���ΰ��ƪ�£�

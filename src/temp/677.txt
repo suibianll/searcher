@@ -1,0 +1,19 @@
+subject:SASO 2019 Call for Papers
+url:http://www.cs.wisc.edu/dbworld/messages/2018-11/1542650922.html
+deadline:1 Feb 2019
+DBWorld Message Call for Technical Papers SASO 2019
+ 
+The 13th IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2019) is held in Umeå, Sweden, on June 16 – 20, 2019, as part of the Foundations and Applications of Self* Systems (FAS* 2019). 
+The aim of the conference SASO is to provide a forum for the foundations of a principled approach to engineering systems, networks and services based on self-adaptation and self-organization.
+ 
+Important dates
+Workshop proposal deadline: Dec 14, 2018 
+Paper submission deadline: March 10, 2019      
+Notification: April 10, 2019
+Camera ready version: April 20, 2019            
+Conference: June 16-20, 201
+ 
+Please see attached announcement for more information on scope and topics.
+Further information also on http://saso2019.cs.umu.se/.
+ 
+SASO 2019 is co-located and has some shared activities with The 16th IEEE International Conference on Autonomic Computing (ICAC 2019).

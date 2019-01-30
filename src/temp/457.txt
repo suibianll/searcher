@@ -1,0 +1,9 @@
+subject:Data Scieence and Social Research (DSSR) 2019
+url:http://www.cs.wisc.edu/dbworld/messages/2018-10/1539764033.html
+deadline:19 Nov 2018
+DBWorld Message Second international conference on data science and social research
+The Data Science and Social Research international conference encourages contributions about:
+new methodological developments to extract social knowledge from large scale data sets;
+new social research about human behaviour and society with large datasets, either mined from various sources (e.g. social media, communication systems) or created via controlled experiments; 
+integrated systems to take advantage of new social data sources; 
+big data quality issues, both as reformulation of traditional representativeness and validity and as emerging quality aspects such as access constraints, which may produce inequalities.
